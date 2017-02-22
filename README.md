@@ -1,8 +1,8 @@
 #Writing
 
-##App: Network, Alumni Network,
+##App: Network, Alumni Network, Business Card, Different School and Company Business Card according to where they met each other,
 
-###Technology: IT, Big Data, Artificial Intelligence
+###Technology: IT, Big Data, Artificial Intelligence, Silicon Valley, Y Combinator
 
 ###Business: Business Model, Financial Report
 
@@ -26,3 +26,8 @@
 ###Education: MBA, SAT
 
 ###Immigration
+
+
+
+
+####历代状元，进士 分布
